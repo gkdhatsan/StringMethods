@@ -1,0 +1,19 @@
+1.substring -2   --- to split as separate string  -- string
+2.concat ---  to join 2 separate string  -- string
+3.equals -- to compare based on assci value --boolean 
+4.equalIgnorecase --- not consider case sensitive  -- boolean
+5.indexOf  -- to get the specific charactor based on index --- int
+6.lastIndexOf  -- to get the specific charactor based on lastindex --- int
+7.toUpperCase -- to change lower to upper  -- string
+8.toLowerCase -- to change from lower yto upper -- string
+9.contains  -- to check specific string is present or not -- boolean
+10.split--forlooopp --charactor,space,withoutspace -- string[]
+11.replace  -- to reaplace a char,word -- string
+12.replaceAll -- to repalce entire string  -- string
+13.startsWith -- to check weather starts with specific letter ,word ,number -- boolean
+14.endswith  --to check weather ends with specific letter ,word ,number  -- boolean
+15.length()  -- string and array length -- int
+16.trim   -- to delete start and ending space -- strinng
+17.compareTo  -- to compare the 2 string based on assci value but substract value -- int
+18.charAt  --- to find the charactor based on the index -- char
+19.is empty -- to check whether string is empty or not   -- boolean
